@@ -5,7 +5,7 @@ This project demonstrates grid-based logic, drag-and-drop functionality, and dyn
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 🎮 Interactive candy matching gameplay
 * 🔄 Restart game functionality
@@ -40,3 +40,9 @@ The project focuses on implementing game logic such as matching patterns, updati
 ## 👩‍💻 Author
 
 Aishwarya S Kanchan
+---
+
+## 🌐 Live Demo
+
+👉 https://aishaishwarya30.github.io/CandyCrush-Aishu/
+
