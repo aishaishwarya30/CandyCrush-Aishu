@@ -6,6 +6,7 @@ function restartGame() {
     location.reload();
 }
 
+
 function candyCrushGame() {
     const grid = document.querySelector(".grid");
     const scoreDisplay = document.getElementById("score");
